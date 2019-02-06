@@ -1,0 +1,27 @@
+form{
+	background-color:yellow;
+	padding:10px;
+	height: 40px;
+	text-align: right;
+}
+h2{
+	position: absolute;
+	margin-left: 25%;
+	color: red;
+	font-size: 50px;
+	margin-top: 0px;
+}
+#form6{
+	background-color:red;
+	text-align: center;
+	height: 100%;
+	width: 50%;
+	margin-top:20%;
+	margin-left: 25%;
+	border-radius: 20px;
+	border-style: double;
+}
+#in6{
+	margin-top: 5px;
+
+}
