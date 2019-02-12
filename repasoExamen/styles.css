@@ -1,0 +1,58 @@
+.content {
+  width: 770px;
+  margin: 0 auto;
+}
+
+.logo {
+  height: 100%;
+  float: left;
+  margin-right: 20%;
+}
+
+button {
+  width: 200px;
+  height: 60%;
+  background-color: black;
+  color: aliceblue;
+  border-radius: 10px;
+  float: left;
+  margin-left: 25px;
+}
+
+.foto {
+  width: 770px;
+}
+.buscado {
+  font-family: "Gill Sans", "Gill Sans MT", "Trebuchet MS", sans-serif;
+  font-size: 55;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  background-color: crimson;
+  float: left;
+  padding: 5px;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+form {
+  width: 100%;
+  background-color: brown;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 10px;
+  align-content: center;
+}
+
+input {
+  width: 80%;
+  margin: 10px;
+}
+table,th,td{
+    border-style: dotted;
+			width: 150px;
+			height: 50px;
+			border: 1px solid black;
+			text-align: center;
+}
